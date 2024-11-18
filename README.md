@@ -2,17 +2,17 @@
 ### 灌完虛擬機通常要做的事 for Virtual Box ver 6.1.38 
 
 ## 步驟 1 VBoxWindowsAdditions.exe
-> 在裝置 >插入Guest additions CD 映像... 
+ > 在裝置 >插入Guest additions CD 映像... 
 
-插入完會出現 CD光碟機 VirtualBox Guest additions
+ > 插入完會出現 CD光碟機 VirtualBox Guest additions
 
-在VirtualBox Guest additions 中 
+ > 在VirtualBox Guest additions 中 
 
-會看到三個VBoxWindowsAdditions.exe 三個猜一個
+ > 會看到三個VBoxWindowsAdditions.exe 三個猜一個
 
-通常選檔案最小的那個安裝(若知道自己電腦什麼位元數可以自己選裝哪個)
+ > 通常選檔案最小的那個安裝(若知道自己電腦什麼位元數可以自己選裝哪個)
 
-這步驟類似安裝驅動 要裝了才有很多功能 ( 裝完必須重啟虛擬機 )
+ > 這步驟類似安裝驅動 要裝了才有很多功能 ( 裝完必須重啟虛擬機 )
 
  > 裝完可退出 Guest additions CD 映像...
 
@@ -59,5 +59,5 @@
 # 拖放和共用檔案時注意事項?
 
 > 拖放必須精準且小心，否則容易當機。
-當機時 : 縮放視窗大小，不行的話重開機。
-共用檔案時請注意不要虛擬機開檔案，本機又開檔案，易出問題。
+> 當機時 : 縮放視窗大小，不行的話重開機。
+> 共用檔案時請注意不要虛擬機開檔案，本機又開檔案，易出問題。
