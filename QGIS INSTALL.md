@@ -1,5 +1,7 @@
 ## For QGIS ver (QGIS-OSGeo4W-3.34.12-1) Install guide
 
+用的虛擬機環境檔名 Win10_64_CHT_START_v20241022a.ova
+
 QGIS安裝好 (打開非custom的那個)
 
 打開可能會出現SSL憑證問題 > 按忽略
